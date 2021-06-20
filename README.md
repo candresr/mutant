@@ -28,10 +28,10 @@
 
 Este documento describe la funcionalidad de la API Mutant el cual comprende los siguientes módulos:
 
-1. Servicio Mutant
+- Servicio Mutant
     * Se pueda detectar si un humano es mutante enviando la secuencia de ADN
 
-2. Servicio stats
+- Servicio stats
     * Las estadísticas de las verificaciones de ADN
 
 
