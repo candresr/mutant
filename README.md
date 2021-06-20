@@ -59,7 +59,7 @@ Este documento describe la funcionalidad de la API Mutant el cual comprende los 
   |Título                      | Buscar Adn Mutante|
   |--|--|
   |**Descripción**             | Consulta del adn de acuerdo a la matriz enviada|
-  |**URL**                     |/mutant|
+  |**URL**                     |https://mutant-alert.herokuapp.com/mutant|
   |**Método**                  |POST|
   |**Url Params**              |N/A|
   |**Data Params / Entradas**  |{“dna”:["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]}|
@@ -72,7 +72,7 @@ Este documento describe la funcionalidad de la API Mutant el cual comprende los 
   |Título                      | Estadisticas Adn mutante|
   |--|--|
   |**Descripción**             | Consulta de las estadisticas de ADN|
-  |**URL**                     |/stats|
+  |**URL**                     |https://mutant-alert.herokuapp.com/stats|
   |**Método**                  |GET|
   |**Url Params**              |N/A|
   |**Data Params / Entradas**  |N/A|
